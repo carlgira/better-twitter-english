@@ -1,3 +1,10 @@
+# Better Twitter English
+
+**ToDo**
+- Hide all recomendations. (show only post from your peers)
+
+------------------
+
 # Better Twitter
 
 Web Extension for Google Chrome and Firefox.
